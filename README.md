@@ -1,0 +1,1 @@
+I'll be building a basic recipe website in this project. This project is made with HTML and CSS. It's a stepping stone for me to get more and more proficient in HTML and CSS.
